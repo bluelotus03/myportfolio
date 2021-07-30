@@ -39,12 +39,14 @@ a:hover {
 p {
     font-size: 16px;
     line-height: 24px;
+    /* ✨ Can choose color of paragraph text ✨ */
     color: #fff;
 }
 
 h4 {
     font-size: 26px;
     font-weight: 700;
+    /* ✨ Can choose color of h4 titles ✨ */
     color: #fff;
     letter-spacing: 0.25px;
 }
