@@ -13,11 +13,8 @@ body {
 }
 
 #page-wraper {
-    background: url(../images/page-bg.jpg) no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+    /* 💛 Choose a background color for the main area of the site 💛 */
+    background-color: white;
     width: 100%;
 }
 
@@ -136,6 +133,7 @@ html {
 }
 
 .menu .image img {
+    /* 💛 Can change profile image size - see guide 💛 */
     width: 140px;
     height: 140px;
     border-radius: 50%;
@@ -223,6 +221,7 @@ html {
     left: 10%;
   -webkit-transition: -webkit-transform 233ms cubic-bezier(0, 0, 0.21, 1);
   -webkit-overflow-scrolling: touch;
+   /* 💛 Choose a background color for the side panel 💛 */
   background-color: #a43f49;
   box-sizing: border-box;
   height: 100vh;  
