@@ -542,6 +542,11 @@ https://templatemo.com/tm-531-reflux
         showSection($(this).attr("href"), true);
       });
 
+      $(".about-me").on("click", "a", function(e) {
+        e.preventDefault();
+        showSection($(this).attr("href"), true);
+      });
+
       $(window).scroll(function() {
         checkSection();
       });
