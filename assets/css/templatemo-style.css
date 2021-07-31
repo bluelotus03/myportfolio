@@ -370,6 +370,7 @@ button:hover {
     border-top: 2px solid rgba(250, 250, 250, 0.1);
 }
 
+/* Removed border for projects at bottom */
 .projects-bottom {
     border-top: none;
 }
