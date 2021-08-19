@@ -333,10 +333,11 @@ html {
     letter-spacing: 0.5px;
     text-transform: uppercase;
     transition: all 0.5s;
+    border-radius: 3px;
 }
 
 .white-button a:hover {
-    background-color: #030303;
+    background-color: #6808a8;
     color: #fff;
 }
 
