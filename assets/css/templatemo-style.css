@@ -816,3 +816,12 @@ section.contact-me {
         margin-bottom: 20px;
     }
 }
+
+a.text-link {
+    color:aqua;
+}
+
+a.text-link:hover {
+    color:rgb(159, 57, 255);
+    text-decoration: underline;
+}
