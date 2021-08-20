@@ -2,7 +2,7 @@
 This is a repo for our website until the new one is developed with out Web Dev Team. 
 # 
 #### This website was built with a template used for one of our workshops!
-If you're interested in trying to build your own website, you can see the guide for the workshop here: 
+If you're interested in trying to build your own website, you can see the guide for the workshop here:
 [Portfolio Workshop Guide](https://docs.google.com/document/d/1QMNM5DetvtV7qaS-9LQkNUfGMydneavYvT3TgqRz9mY/edit?usp=sharing)
 
 ### See original template here: 
