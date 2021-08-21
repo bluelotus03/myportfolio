@@ -1,5 +1,5 @@
 # Girls Who Code at UNC Charlotte
-This is the official website for Girls Who Code at UNC Charlotte (until the new one is developed with out Web Dev Team). 
+This is the official website for Girls Who Code at UNC Charlotte (until the full one is developed with our Web Dev Team). 
 # 
 ##### This website was built with a template used for one of our workshops!
 
