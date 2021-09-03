@@ -821,6 +821,10 @@ a.text-link {
     color:aqua;
 }
 
+p.blue-text {
+    color: aqua;
+}
+
 a.text-link:hover {
     color:rgb(159, 57, 255);
     text-decoration: underline;
