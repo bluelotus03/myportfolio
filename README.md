@@ -11,3 +11,6 @@ This repo was created using a free template and modified to use for a 2-Day Prof
 ### See original template here: 
 [Reflux Template](https://templatemo.com/tm-531-reflux)
 
+
+#### Note: The girlswhocodesite branch is an example of how the template can be adapted to fit your needs.
+That version was created as an intial landing page for Girls Who Code at UNC Charlotte until our full website is developed. 
