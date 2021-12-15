@@ -1,6 +1,5 @@
 # My Portfolio
 This repo was created using a free template and modified to use for a 2-Day Professional Development Workshop.
-#
 [Preview Template](https://bluelotus03.github.io/myportfolio/)
 #
 ### Guide for this workshop:
